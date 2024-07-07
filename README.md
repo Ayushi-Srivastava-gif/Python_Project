@@ -1,4 +1,4 @@
-# **Two-Player Rock, Paper, Scissors Game: Step-by-Step**
+## **Two-Player Rock, Paper, Scissors Game: Step-by-Step**
 
 1. **Start the Game**: Player 1's Turn  
    - Prompt Player 1 to choose one of the following moves:
